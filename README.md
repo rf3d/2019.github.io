@@ -1,37 +1,202 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title>be1.ru</title>
+</head>
+<body>
+<p><span style="font-family:Arial,Helvetica,sans-serif"><strong><span style="font-size:15.0pt"><span style="color:#24292e"><span style="background-color:#dddddd">1. Идентификатор прецедента</span></span></span></strong></span></p>
 
-You can use the [editor on GitHub](https://github.com/rf3d/2019.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p><span style="color:#7f8c8d"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt">Управление предприятием</span></span></span></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><span style="color:#000000"><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:15.0pt"><span style="background-color:#dddddd">2. </span></span><span style="font-size:15.0pt"><span style="background-color:#dddddd">Название прецедента</span></span></span></strong></span></p>
 
-### Markdown
+<p><span style="color:#7f8c8d"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt">Автоматизация &nbsp;склада&nbsp; дорогих металлов</span></span></span></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p><span style="font-size:20px"><span style="font-family:Arial,Helvetica,sans-serif"><strong><span style="background-color:#dddddd">3. Контекст</span></strong></span></span></p>
 
-```markdown
-Syntax highlighted code block
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Разработка конфигурации 1С</span></span></span></p>
 
-# Header 1
-## Header 2
-### Header 3
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.5pt"><span style="color:black"><span style="background-color:#dddddd">4. </span></span></span><span style="font-size:16.5pt"><span style="color:black"><span style="background-color:#dddddd">Участники (actors) и цели (goals)</span></span></span></span></strong></p>
 
-- Bulleted
-- List
+<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt; margin-left:36.0pt">
+	<tbody>
+		<tr>
+			<td style="width:147.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:15.0pt"><span style="color:#24292e">Участник</span></span></span></h3>
+			</td>
+			<td style="width:147.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:15.0pt"><span style="color:#24292e">Категория</span></span></span></h3>
+			</td>
+			<td style="width:147.55pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:15.0pt"><span style="color:#24292e">Цель</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Руководитель проекта</span></span></span></h3>
+			</td>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Основной</span></span></span></h3>
+			</td>
+			<td style="width:147.55pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Представить программный продукт</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Аналитик</span></span></span></h3>
+			</td>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Основной</span></span></span></h3>
+			</td>
+			<td style="width:147.55pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Донести до разработчиков требования клиента</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Команда разработчиков и тестировщиков</span></span></span></h3>
+			</td>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Основной</span></span></span></h3>
+			</td>
+			<td style="width:147.55pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Разработать готовый продукт</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Клиент</span></span></span></h3>
+			</td>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Внешний</span></span></span></h3>
+			</td>
+			<td style="width:147.55pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Формирование требований ПП</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Платформа 1С : Предприятие 8.3 Управление торговлей 10.1 (мод.)</span></span></span></h3>
+			</td>
+			<td style="width:147.5pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Инструмент</span></span></span></h3>
+			</td>
+			<td style="width:147.55pt">
+			<h3><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Создание основных функциональных способностей ПП</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:147.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">PlantUML</span></span></span></h3>
+			</td>
+			<td style="width:147.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Инструмент</span></span></span></h3>
+			</td>
+			<td style="width:147.55pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:#24292e">Проектирование необходимого функционала ПП</span></span></span></h3>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-1. Numbered
-2. List
+<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.5pt"><span style="color:black"><span style="background-color:#dddddd">5. </span></span></span><span style="font-size:16.5pt"><span style="color:black"><span style="background-color:#dddddd">Предусловия (pre-conditions)</span></span></span></span></h3>
 
-**Bold** and _Italic_ and `Code` text
+<ul>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Заказчик сформировал свою идею и подготовил требования.</span></span></span></li>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Система управления проектами установлена на ПК всех основных участников.</span></span></span></li>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Основные участники ознакомлены с функционалом системы.</span></span></span></li>
+</ul>
 
-[Link](url) and ![Image](src)
-```
+<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.5pt"><span style="color:black"><span style="background-color:#dddddd">6. Постусловия (post-conditions)</span></span></span></span></h3>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<ul>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.0pt"><span style="color:black">ПП разработан в срок, указанный в договоре </span></span></span></li>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.0pt"><span style="color:black">Ресурсы не превышены</span></span></span></li>
+	<li><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.0pt"><span style="color:black">Заказчик доволен ПП</span></span></span></li>
+</ul>
 
-### Jekyll Themes
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.5pt"><span style="color:black"><span style="background-color:#dddddd">7. </span></span></span><span style="font-size:16.5pt"><span style="color:black"><span style="background-color:#dddddd">Основной поток (main flow)</span></span></span></span></strong></p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rf3d/2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt; margin-left:32.2pt">
+	<tbody>
+		<tr>
+			<td style="width:150.1pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.5pt"><span style="color:black">Участник</span></span></span></h3>
+			</td>
+			<td style="width:150.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.5pt"><span style="color:black">Действие</span></span></span></h3>
+			</td>
+			<td style="width:145.75pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:16.5pt"><span style="color:black">Ожидаемый результат</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150.1pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Владелец продукта</span></span></span></h3>
+			</td>
+			<td style="width:150.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Собирает требования заказчика</span></span></span></h3>
+			</td>
+			<td style="width:145.75pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Составлен бэклог</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150.1pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Аналитик</span></span></span></h3>
+			</td>
+			<td style="width:150.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Участвует в оценке действий владельца</span></span></span></h3>
+			</td>
+			<td style="width:145.75pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Составленный пакет требований заказчика</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150.1pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Команда разработчиков и тестировщиков</span></span></span></h3>
+			</td>
+			<td style="width:150.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Составляет и тестирует программный продукт</span></span></span></h3>
+			</td>
+			<td style="width:145.75pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Готовое программное решение</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150.1pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Заказчик</span></span></span></h3>
+			</td>
+			<td style="width:150.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Предоставляет требования</span></span></span></h3>
+			</td>
+			<td style="width:145.75pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Владелец продукта получил требования и представление об их приоритете</span></span></span></h3>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:150.1pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Заказчик</span></span></span></h3>
+			</td>
+			<td style="width:150.5pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Оценивает выполненную работу</span></span></span></h3>
+			</td>
+			<td style="width:145.75pt">
+			<h3 style="margin-left:0cm; margin-right:0cm"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Команда получает оценку качества ПП</span></span></span></h3>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-### Support or Contact
+<h3 style="margin-left:32.2pt; margin-right:0cm">&nbsp;</h3>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><strong><span style="font-size:16.0pt"><span style="color:black"><span style="background-color:#dddddd">8. Исключения (</span></span></span></strong><strong><span style="font-size:16.0pt"><span style="color:black"><span style="background-color:#dddddd">exceptions</span></span></span></strong><strong><span style="font-size:16.0pt"><span style="color:black"><span style="background-color:#dddddd">)</span></span></span></strong></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Заказчик отменил требования, расторгнул договор. </span></span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><strong><span style="font-size:16.0pt"><span style="color:black"><span style="background-color:#dddddd">9. Альтернативы </span></span></span></strong><strong><span style="font-size:16.0pt"><span style="color:black"><span style="background-color:#dddddd">(alternates)</span></span></span></strong></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14.0pt"><span style="color:black">Заказчик изменил требования</span></span></span></p>
+</body>
+</html>
