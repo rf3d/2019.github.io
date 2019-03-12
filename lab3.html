@@ -20,11 +20,9 @@
 <style>
 canvas {
     border:1px solid #000000;
-    background-color: #FFFFFF;
 }
 </style>
 </head>
-<center>
 <body onload="startGame()">
 <script>
 var myGamePiece;
@@ -138,7 +136,6 @@ function accelerate(n) {
     myGamePiece.gravity = n;
 }
 </script>
-	</center>
 <br>
 <button onmousedown="accelerate(-0.2)" onmouseup="accelerate(0.05)">ЛЕТЕТЬ</button>
 <p>Use the ACCELERATE button to stay in the air</p>
